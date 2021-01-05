@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "title": "Pancit palabok",
+      "subtitle": "Naapgad",
+      "imageUrl": "https://www.foxyfolksy.com/wp-content/uploads/2017/06/pork-adobo-640-500x375.jpg",
+      "buttons": [
+        {
+          "type": "postback",
+          "title": "Add to Cart",
+          "payload": "MENU_ADOBO"
+        }
+      ]
+    },
+    {
+      "title": "Sinigang",
+      "subtitle": "Naalsem",
+      "imageUrl": "https://casaveneracion.com/wp-content/uploads/2010/03/pork-sinigang.jpg",
+      "buttons": [
+        {
+          "type": "postback",
+          "title": "Add to Cart",
+          "payload": "MENU_SINIGANG"
+        }
+      ]
+    },
+    {
+      "title": "Halo-Halo",
+      "subtitle": "Nasam-it",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shutterstock-635391374mod-1522955622.jpg",
+      "buttons": [
+        {
+          "type": "postback",
+          "title": "Add to Cart",
+          "payload": "MENU_HALOHALO"
+        }
+      ]
+    }
+  ]
+}
